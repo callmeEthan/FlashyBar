@@ -13,4 +13,4 @@ Plugin included:
 
 ## Authors
 [Ethan (Finch)](https://github.com/callmeEthan).  
-Might be minor change before publish.  
+Might be minor change before public release.  
