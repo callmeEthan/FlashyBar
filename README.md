@@ -1,5 +1,5 @@
 # FlashyBar
-A simple bar with a flash effect moving from left to right to indicate activity 
+A simple bar with a flash effect moving across the bar to indicate activity 
 Rewrite for easier general use.
 
 ## Usage
@@ -13,5 +13,4 @@ Plugin included:
 
 ## Authors
 [Ethan (Finch)](https://github.com/callmeEthan).  
-This would be my final version if there's no issues.  
-)
+Might be minor change before publish.  
