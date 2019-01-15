@@ -1,6 +1,6 @@
 # FlashyBar
-A simple bar with a flash effect moving across the bar to indicate activity 
-Rewrite for easier general use.
+A simple bar with a flash effect moving across the bar to indicate activity.  
+Rewrite from my setup for easier general use.
 
 ## Usage
 Each bar have their own Settings.inc and layout.inc file, user should edit them if necessary.  
