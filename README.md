@@ -6,6 +6,7 @@ Rewrite from my setup for easier general use.
 Each bar have their own Settings.inc and layout.inc file, user should edit them if necessary.  
 CPU stats are from [core temp](https://www.alcpu.com/CoreTemp/), you can edit skin .ini and change measure appropriately if you have different program.  
 GPU stats are from [MSI Afterburner](https://www.guru3d.com/files-details/msi-afterburner-beta-download.html)  
+Drive bar flash effect based on disk read/write speed, this variable is automatically updated to your top speed.
 
 ## Credit
 Plugin included:  
