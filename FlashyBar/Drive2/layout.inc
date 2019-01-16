@@ -45,9 +45,9 @@ FontSize=#FontSize#
 AntiAlias=1
 StringAlign=left
 Text="%1B"
-X=35
+X=30
 Y=0r
-NumOfDecimals=1
+NumOfDecimals=0
 AutoScale=1
 
 [MeterInfo]

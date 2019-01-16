@@ -35,6 +35,7 @@ FontSize=#FontSize#
 AntiAlias=1
 SolidColor=255,255,255,1
 LeftMouseUpAction=#MouseAction#
+Hidden=1
 
 [MeterLoad]
 Meter=STRING
@@ -45,7 +46,7 @@ FontSize=#FontSize#
 AntiAlias=1
 StringAlign=left
 Text="%1%"
-X=50
+X=30
 Y=0r
 
 [MeterInfo]
@@ -58,3 +59,14 @@ StringAlign=Right
 Text="Charging"
 X=(#CURRENTCONFIGWIDTH#-2)
 Y=0r
+
+
+[MeterIcon]
+Meter=Image
+ImageName=#@#icon\battery.png
+X=0
+Y=0
+W=17
+H=17
+SolidColor=0,0,0,1
+ImageTint=255,255,255
